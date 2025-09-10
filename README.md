@@ -32,26 +32,6 @@ models.py: Define a estrutura de um Produto usando dataclasses.
 
 storage.py: Abstrai a lógica de leitura e escrita do arquivo estoque.json, permitindo que o sistema de armazenamento possa ser trocado facilmente no futuro (ex: para um banco de dados SQL).
 
-🚀 Como Executar
-Para executar este projeto, você precisará ter o Python 3 instalado em sua máquina.
-
-Clone o repositório:
-
-Bash
-
-git clone https://github.com/SEU-USUARIO/pizzaria-estoque.git
-(Substitua SEU-USUARIO/pizzaria-estoque pelo URL do seu repositório)
-
-Navegue até o diretório do projeto:
-
-Bash
-
-cd pizzaria-estoque
-Execute a aplicação:
-
-Bash
-
-python main.py
 📋 Como Usar
 Ao executar main.py, um menu interativo será exibido no terminal:
 

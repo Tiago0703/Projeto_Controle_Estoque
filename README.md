@@ -10,7 +10,7 @@ pizzaria_estoque/
 ├── utils.py             # Funções utilitárias (limpar tela, validação de input)
 └── estoque.json         # Arquivo de banco de dados (gerado automaticamente)
 
-Como Usar
+Como Usar:
 Ao executar main.py, um menu interativo será exibido no terminal:
 
 
